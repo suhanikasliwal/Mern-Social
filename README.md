@@ -31,3 +31,4 @@ This project uses a microservices-style architecture managed by an Nginx reverse
 ```bash
 git clone [https://github.com/your-username/mern-social.git](https://github.com/your-username/mern-social.git)
 cd mern-social
+Databse
